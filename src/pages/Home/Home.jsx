@@ -20,15 +20,11 @@ function Home() {
                 </div>
 
                 <div className="texto-3">
-                    <span className="mao">Clique aqui!</span>
+                    <button className="mao">Clique aqui!</button>
                 </div>
             </div>
 
-            <footer className="rodape">
-                <div className="conteudo-rodape">
-                    <span>Todos os direitos reservados</span>
-                </div>
-            </footer>
+           
         </>
     )
 }
